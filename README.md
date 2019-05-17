@@ -10,25 +10,38 @@
 
 Aspiring web developer looking for a company to lend his skills to create and improve real-world software as well as to acquire professional experience working in a team. Eager to learn, keep track of the new technologies and apply new-found skills whereas possible. 
 
-## Technologies
+## Tools
 
-Programming languages:
+### Programming
 
-* JS(vanilla, Node)
+* JS(ES6, Node, React/Redux, JQuery)
 * PHP
 * C++
 * Haskell
 
-Markup/design:
+### Markup/design
 
-* HTML
-* CSS
+* HTML, pug
+* CSS, SCSS
 
-Databases:
+### Frontend
+
+* Webpack
+* Babel
+* ESLint
+* Jest
+
+### IDE/Editors
+
+* Visual Studio
+* Visual Studio Code
+* Notepad++
+
+### Databases
 
 * sqlite
 * MySQL
-* MongoDB
+* MongoDB(mongoose)
 
 ## Skills
 
@@ -42,6 +55,9 @@ Databases:
 Experienced in administrating a Windows server(friend project) with an assortment of websites and services. Wrote a multitude of features using JS and PHP for an active forum on the said server: embedded custom audio player, reply previews, dynamic page contents, moderation tools and various design improvements.
 
 Currently maintaining number of open source projects, including, but not limited to:
+
+Various projects written using contemporary frontend tools and BEM methodology:
+https://performanceartist.github.io/
 
 Fully functional chat written with Node/Express and deployed to Heroku: [node_chat](https://github.com/performanceArtist/node_chat)
 
