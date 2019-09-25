@@ -14,7 +14,7 @@
 
 ### Программирование
 
-* JS(ES6, Node, React/Redux, JQuery)
+* JS(ES6, Typescript, Node, React/Redux)
 * PHP
 * C++
 * Haskell
@@ -40,30 +40,22 @@
 
 ### Базы данных
 
-* sqlite
-* MySQL
+* PostgreSQL
 * MongoDB(mongoose)
+* sqlite
 
 ## Навыки
 
 * Backend/Frontend разработка
 * Объектно-ориентированное программирование
 * Функциональное программирование
-* Администрирование Windows Server
 
 ## Опыт
 
-Есть опыт администрирования Windows Server(проект с другом) с различными сайтами и сервисами. Писал различные фичи для активного форума на упомянутом сервере: кастомный аудиоплеер, превью ответов при наведении мыши, динамичный контент, различные улучшения дизайна. Создал и различные проекты на github, включающие:
+Прошёл программу обучения [Fullstack Development](https://github.com/fullstack-development), код-ревью по трём проектам: 
+[resume-template](https://github.com/performanceArtist/resume_template), [ui-kit](https://github.com/performanceArtist/ui-website), [slider-plugin](https://github.com/performanceArtist/slider-plugin)
 
-Проекты с применением современного фронтенд-инструментария и БЭМ-методологии: https://performanceartist.github.io/
-
-Полностью функциональный чат с поддержкой комнат, разработанный с Node/Express и выложенный на Heroku: [node_chat](https://github.com/performanceArtist/node_chat)
-
-Различные полезные функции для JS(утилиты для работы с массивами, функции для отправки ajax-запросов, бит-флаги): [js_modules](https://github.com/performanceArtist/js_modules)
-
-Сайт-блог(PHP): [blog](https://github.com/performanceArtist/somewebsite)
-
-Текстовая онлайн-игра, совмещающая приложение на Haskell и фронтенд на PHP: [colonize](https://github.com/performanceArtist/colonize)
+Работал над проектом со стеком react-redux-typescript + node-express + postgreSQL. Суть проекта - отображение данных о дорожном покрытии в реальном времени и режиме истории в виде графиков и маршрутов на карте, возможность создания заданий с маршрутами/количеством полос и прочими данными для водителей, отдельный интерфейс для выполнения и отмены этих заданий. Разработка на данный момент продолжается.   
 
 ## Образование
 
