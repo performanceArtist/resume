@@ -1,72 +1,60 @@
-# Full-stack web developer
+# Full-stack веб-разработчик
 
-## Contacts
+## Контакты
 
-* gerasimov.vslav@yahoo.com
+* nakedant19@gmail.com
 * 8-913-863-87-96
 * https://github.com/performanceArtist
 
-## Summary
+## Опыт
 
-Aspiring web developer looking for a company to lend his skills to create and improve real-world software as well as to acquire professional experience working in a team. Eager to learn, keep track of the new technologies and apply new-found skills whereas possible. 
+### Elesy
 
-## Tools
+Работа над проектом со стеком react-redux-typescript + node-express + postgreSQL. Суть проекта - отображение данных о дорожном покрытии в реальном времени и режиме истории в виде графиков и маршрутов на карте, возможность создания заданий с маршрутами/количеством полос и прочими данными для водителей, отдельный интерфейс для выполнения и отмены этих заданий.
 
-### Programming
+### Metalamp
 
-* JS(ES6, Node, React/Redux, JQuery)
-* PHP
-* C++
-* Haskell
+Datalight - платформа для аналитики криптовалют(создание кастомных виджетов - графиков, таблиц, чартов). Базовые задачи по поддержке и интеграции новых фич. Стек - typescript, react, redux, redux-saga. 
 
-### Markup/design
+Rocket compute - mvp для аренды компьютеров с целью проведения тяжелых вычислений на удаленной машине. Старт с использованием имеющегося starter-кита и заложение основных фичей. В процессе разработки были созданы и использованы две библиотеки:
 
-* HTML, pug
-* CSS, SCSS
+1. Уменьшение boilerplate при работе с redux. [Код](https://github.com/performanceArtist/redux-unit).
+2. Интеграция websocket с redux-saga. [Код](https://github.com/performanceArtist/redux-saga-sockets).
 
-### Frontend
+Стек - typescript, react, redux, redux-saga.
 
-* Webpack
-* Babel
-* ESLint
-* Jest
+### Devexperts
 
-### IDE/Editors
+Finosoft - торговая платформа(биржа). Базовые задачи по поддержке и интеграции фич.
 
-* Visual Studio
-* Visual Studio Code
-* Notepad++
+Avatrade - аналогичный Finosoft проект. Более серьезные задачи по созданию новых фичей и изменений, затрагивающих архитектуру. 
 
-### Databases
+Стек - typescript, fp-ts, rxjs, react.
 
-* sqlite
-* MySQL
-* MongoDB(mongoose)
+В результате работы были созданы свои библиотеки для создания фронтенд-проектов, основанные на использованных подходах:
 
-## Skills
+* [medium](https://github.com/performanceArtist/medium)- работа с состоянием и сайд-эффектами, а также общий подход к архитектуре проекта.
 
-* Backend/Frontend development
-* Object-oriented programming
-* Functional programming
-* Windows Server administration
+* [fp-ts-adt](https://github.com/performanceArtist/fp-ts-adt) - дополнения и абстракции для fp-ts.
 
-## Experience 
+* [rx-js-utils](https://github.com/performanceArtist/rx-utils) - дополнения и абстракции для rx-js.
 
-Experienced in administrating a Windows server(friend project) with an assortment of websites and services. Wrote a multitude of features using JS and PHP for an active forum on the said server: embedded custom audio player, reply previews, dynamic page contents, moderation tools and various design improvements.
+* [react-utils](https://github.com/performanceArtist/react-utils) - интеграция перечисленного инструментария с react. 
 
-Currently maintaining number of open source projects, including, but not limited to:
+### Juspay
 
-Various projects written using contemporary frontend tools and BEM methodology:
-https://performanceartist.github.io/
+Credit - платформа для упрощения получения кредитов для частных и юридических лиц. Выполнение базовых задач - создание фичей, рефакторинг.
 
-Fully functional chat written with Node/Express and deployed to Heroku: [node_chat](https://github.com/performanceArtist/node_chat)
+Стек - Haskell, Servant, Postgres. 
 
-Various useful functions for JS(array utilities, ajax requests, bit flags): [js_modules](https://github.com/performanceArtist/js_modules)
+### Cardano(IOHK)
 
-Personal blog with registration, tag system, comments and multiple image uploads built from scratch(PHP): [blog](https://github.com/performanceArtist/somewebsite)
+Написание приложений с использованием smart-контрактов на языке Plutus. Создание двух проектов, включающие бекенд и фронтенд: 
+Lending pool - займ криптовалюты с использованием иной криптовалюты в качестве залога. 
+Nft marketplace - создание и продажа nft.
 
-Online text-based game, which combines Haskell application and PHP frontend: [colonize](https://github.com/performanceArtist/colonize)
+Стек - Haskell, Plutus, Purescript.
 
-## Education
+## Свои проекты
 
-TUSUR, Informational Security (2015-2019...) - unfinished as of now.
+* [binance-scripts](https://github.com/performanceArtist/binance-scripts), [trading indicators](https://github.com/performanceArtist/trading-indicators),  [binance-typescript-api](https://github.com/performanceArtist/binance-typescript-api) - автоматизация торговли на криптобирже путем написания кастомных скриптов с использованием торговых индикаторов. 
