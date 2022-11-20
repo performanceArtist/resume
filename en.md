@@ -2,13 +2,31 @@
 
 ## Experience
 
-### Elesy
+### Cardano(IOHK) as part of Metalamp (March 2021 — November 2021)
 
-A data visualization project - charting for road measurements. Also included an interface for the drivers to take measuring tasks and track the corresponding route on a map.
+Two smart contract apps written using Cardano's Plutus language (plutus pioneers program):
 
-Stack - react-redux-typescript + node-express + postgres.
+Lending pool - platform that allows users to borrow and lend crypto, benefiting lenders with and borrowers with a potential.
 
-### Metalamp
+Nft marketplace.
+
+Stack - Haskell, Plutus, Purescript(frontend).
+
+### Juspay as part of Metalamp (October 2020 — March 2021)
+
+Credit - a project built to facilitate the process of borrowing funds for companies and individuals.
+
+Stack - Haskell, Servant, Postgres. 
+
+### Devexperts as part of Metalamp (December 2019 — October 2020)
+
+Finosoft - trading platform. Basic refactoring and feature tasks.
+
+Avatrade - trading platform. New feature creation, bigger refactoring and architectural tasks.
+
+Stack - typescript, fp-ts, rxjs, react.
+
+### Metalamp (August 2019 — December 2019)
 
 Datalight - crypto analytics platform. Basic tasks. Stack - typescript, react, redux, redux-saga. 
 
@@ -21,39 +39,25 @@ In the process of developing, the following libraries were written and added to 
 
 Stack - typescript, react, redux, redux-saga.
 
-### Devexperts (as part of Metalamp)
+### Elesy (June 2019 — August 2019)
 
-Finosoft - trading platform. Basic refactoring and feature tasks.
+A data visualization project - charting for road measurements. Also included an interface for the drivers to take measuring tasks and track the corresponding route on a map.
 
-Avatrade - trading platform. New feature creation, bigger refactoring and architectural tasks.
+Stack - react-redux-typescript + node-express + postgres.
 
-Stack - typescript, fp-ts, rxjs, react.
+## Pet projects (November 2021 - September 2022)
 
-As a result, a reimagination of devex's stack was created:
+Trading automation(custom scripts that track trading indicator changes in real time and make bets) for binance:
 
-* [medium](https://github.com/performanceArtist/medium)- state and side-effect management(also contains an overall architecture description).
+* [binance-scripts](https://github.com/performanceArtist/binance-scripts), [trading indicators](https://github.com/performanceArtist/trading-indicators),  [binance-typescript-api](https://github.com/performanceArtist/binance-typescript-api).
+
+
+A suite of libraries for frontend application development, based on devexperts' stack:
+
+* [medium](https://github.com/performanceArtist/medium) - state and side-effect management(also contains an overall architecture description).
 
 * [fp-ts-adt](https://github.com/performanceArtist/fp-ts-adt) - abstractions/helpers for fp-ts.
 
 * [rx-js-utils](https://github.com/performanceArtist/rx-utils) - abstractions/helpers for rx-js.
 
-* [react-utils](https://github.com/performanceArtist/react-utils) - integration with react. 
-
-### Juspay
-
-Credit - a project built to facilitate the process of borrowing funds for companies and individuals.
-
-Stack - Haskell, Servant, Postgres. 
-
-### Cardano(IOHK)
-
-Two smart contract apps writting using Cardano's Plutus language as a part of plutus pioneers program:
-
-Lending pool - platform that allows users to borrow and lend crypto, benefiting lenders with and borrowers with a potential.
-Nft marketplace.
-
-Stack - Haskell, Plutus, Purescript(frontend).
-
-## Pet projects
-
-* [binance-scripts](https://github.com/performanceArtist/binance-scripts), [trading indicators](https://github.com/performanceArtist/trading-indicators),  [binance-typescript-api](https://github.com/performanceArtist/binance-typescript-api) - a library used to write custom trading scripts for binance using trading indicators.
+* [react-utils](https://github.com/performanceArtist/react-utils) - integration with react.
