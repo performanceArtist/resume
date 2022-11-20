@@ -16,7 +16,7 @@
 Lending pool - займ криптовалюты с использованием иной криптовалюты в качестве залога. 
 Nft marketplace - создание и продажа nft.
 
-Стек - Haskell, Plutus, Purescript.
+Стек - Haskell, Plutus, Typescript, React, Purescript.
 
 ### Juspay в составе Metalamp (Октябрь 2020 — Март 2021)
 
