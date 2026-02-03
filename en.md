@@ -1,8 +1,34 @@
-# Full-stack web developer
+# Fullstack web developer
+
+## Contacts
+
+* nakedant19@gmail.com
+* 8-913-863-87-96
+* https://t.me/performanceArtist19
 
 ## Experience
 
-### Cardano(IOHK) as part of Metalamp (March 2021 — November 2021)
+### Metalamp (January 2024 - Dec 2025)
+
+Token Tactics - crypto trade gaming project using telegram-mini-apps interface. Wrote most of the backend logc - trading, prices, user operation limits, payments in ton, notifications and so on. Supported & scaled the project to use many instances to account for userbase growth(10000+ users shortly after launch). Created documentation for further project maintenance. 
+
+Stack - nestjs, postgres, typeorm, rabbitmq, redis.
+
+Arkitekt dex - dex platform. Worked on adding crypto trading logic to existing frontend as well as support.
+
+Stack - nextjs, tailwind, react-query, ethers, viem.
+
+Adadao - stablecoin protocol on cardano chain. Support, bugfix.
+
+Stack - nextjs, redux-toolkit, sass.
+
+### VTB (November 2022 - December 2024)
+
+An in-house service using microfrontend acrhitecture(can't describe fully, since it's under nda). The project had around 9 teams, 2-3 developers each. Started and finished . Afterwards taken the responsibility of creating & maintaining the facade(main app joining all the microfrontends together) and anything pertaining to the microfrontend infrasctructure needs. Helped other teams to prepare and connect their frontend to the facade, as well as offering technical consultation.
+
+Stack - typescript, react.
+
+### Cardano(IOHK) (March 2021 — November 2021)
 
 Two smart contract apps written using Cardano's Plutus language (plutus pioneers program):
 
@@ -12,13 +38,13 @@ Nft marketplace.
 
 Stack - Haskell, Plutus, Purescript(frontend).
 
-### Juspay as part of Metalamp (October 2020 — March 2021)
+### Juspay (October 2020 — March 2021)
 
 Credit - a project built to facilitate the process of borrowing funds for companies and individuals.
 
 Stack - Haskell, Servant, Postgres. 
 
-### Devexperts as part of Metalamp (December 2019 — October 2020)
+### Devexperts (December 2019 — October 2020)
 
 Finosoft - trading platform. Basic refactoring and feature tasks.
 
@@ -44,20 +70,3 @@ Stack - typescript, react, redux, redux-saga.
 A data visualization project - charting for road measurements. Also included an interface for the drivers to take measuring tasks and track the corresponding route on a map.
 
 Stack - react-redux-typescript + node-express + postgres.
-
-## Pet projects (November 2021 - September 2022)
-
-Trading automation(custom scripts that track trading indicator changes in real time and make bets) for binance:
-
-* [binance-scripts](https://github.com/performanceArtist/binance-scripts), [trading indicators](https://github.com/performanceArtist/trading-indicators),  [binance-typescript-api](https://github.com/performanceArtist/binance-typescript-api).
-
-
-A suite of libraries for frontend application development, based on devexperts' stack:
-
-* [medium](https://github.com/performanceArtist/medium) - state and side-effect management(also contains an overall architecture description).
-
-* [fp-ts-adt](https://github.com/performanceArtist/fp-ts-adt) - abstractions/helpers for fp-ts.
-
-* [rx-js-utils](https://github.com/performanceArtist/rx-utils) - abstractions/helpers for rx-js.
-
-* [react-utils](https://github.com/performanceArtist/react-utils) - integration with react.
