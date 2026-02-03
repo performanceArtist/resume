@@ -6,6 +6,7 @@
 
 * nakedant19@gmail.com
 * 8-913-863-87-96
+* https://github.com/performanceArtist
 * https://t.me/performanceArtist19
 
 ## Опыт
@@ -13,7 +14,9 @@
 
 ### Metalamp (January 2024 - Dec 2025)
 
-Token Tactics - crypto trade gaming project using telegram-mini-apps interface. Wrote most of the backend logc - trading, prices, user operation limits, payments in ton, notifications and so on. Supported & scaled the project to use many instances to account for userbase growth(10000+ users shortly after launch). Created documentation for further project maintenance. 
+* Token Tactics
+
+Crypto trade gaming project using telegram-mini-apps interface. Wrote most of the backend logc - trading, prices, user operation limits, payments in ton, notifications and so on. Supported & scaled the project to use many instances to account for userbase growth(10000+ users shortly after launch). Created documentation for further project maintenance. 
 
 Stack - nestjs, postgres, typeorm, rabbitmq, redis.
 
